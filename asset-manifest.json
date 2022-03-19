@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-burger/static/css/main.095f11d9.css",
+    "main.js": "/redux-burger/static/js/main.ce85a9b4.js",
+    "index.html": "/redux-burger/index.html",
+    "main.095f11d9.css.map": "/redux-burger/static/css/main.095f11d9.css.map",
+    "main.ce85a9b4.js.map": "/redux-burger/static/js/main.ce85a9b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.095f11d9.css",
+    "static/js/main.ce85a9b4.js"
+  ]
+}
